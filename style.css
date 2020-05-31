@@ -85,7 +85,36 @@
   }
 }
 
+.gallarySection img {
+  padding: 2%;
+  border: 1px solid black;
+}
+
 footer {
   background-color: greenyellow;
-  padding: 5%;
+  padding: 2%;
+}
+
+footer img {
+  padding: 2%;
+  border: 1px groove black;
+}
+
+footer a {
+  color: black;
+}
+
+footer a:hover {
+  color: royalblue;
+}
+
+footer .rights,
+.social {
+  text-align: center;
+  padding: 2%;
+}
+
+footer i {
+  padding-left: 3%;
+  padding-right: 3%;
 }
